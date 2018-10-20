@@ -1,0 +1,203 @@
+﻿system  hệ thống	
+small	nhỏ	
+mean	nghĩa
+although	tuy, nhưng
+case	trường hợp
+next	tiếp theo
+find	tìm thấy
+social	xã hội
+give	đưa cho	
+group	nhóm
+second	thứ hai
+quiet	im lặng	
+until	cho đến khi
+five	số năm
+party	buổi tiệc
+point	điểm
+company	công ty
+important	quantrọng
+high	cao
+men	đàn ông
+away	xa
+information	thông tin
+public	công cộng
+help	cứu giúp
+head	cái đầu
+often	thường xuyên
+school	trường học
+money	tiền bạc
+tell	nói
+excuse	tha
+fair	hội chợ
+famous	nổi tiếng
+family	gia đình
+interesting	hấp dẫn
+like	thích
+nice	xinh đẹp
+body	thân hình
+park	công viên
+press	nhấn
+slow	chậm chạp
+sample	vật mẫu
+night	đêm, tối
+better	tốt hơn
+bus	xe buýt
+excellent	xuất sắc, ưu tú
+excited	bị kích thích
+fight	chiến đấu
+festival	lễ hội
+feed	nuôi
+error	lỗi
+long	dài
+beach	bờ biển
+hello	xin chào
+fly	bay
+eighty	tám mươi
+laugh	cười
+eleven	số 11
+thursday	thứ năm
+sweet	ngọt
+meat	thịt
+electric	điện
+weak	yếu	
+tuesday	thứ 3
+snow	tuyết
+take	lấy
+do	làm
+hand	tay
+area	khu vực
+whetherenough	dù sao
+week	tuần
+round	tròn
+power	năng lượng
+change	thay đổi
+country	quốc gia
+room	phòng
+tell	nói
+service	dịch vụ
+far	xa
+six	sáu
+become	trở lên
+open	mở
+market	thị trường
+support	ủng hộ
+half	một nửa
+control	điều khiển
+problem	vấn đề
+war	chiến tranh
+car	xe hơi
+police	cảnh sát
+full	đầy
+help	cứu giúp
+report	bài báo cáo
+know	biết
+education	giáo dục
+office	văn phòng
+big	to
+clear	thông thoáng
+door	cửa
+voice	tiếng nói
+person	người
+together	cùng nhau
+care	quan tâm
+black	màu đen
+book	sách
+tall	cao
+yellow	màu vàng
+sport	thể thao
+desk	bàn
+finish	kết thúc
+breakfast	bữa sáng
+store	cửa hàng
+dance	nhảy
+wednesday	thứ tư
+nation	quốc gia
+sixty	sáu mươi
+bedroom	phòng ngủ
+direction	phương hướng
+lift	thang máy
+reply	đáp lại
+fruit	trái cây
+lucky	may mắn
+program	chương trình
+plastic	nhựa
+ice	băng
+passage	đoạn văn
+position	chức vụ
+smoke	thuốc lá
+song	bài hát
+wet	ẩm ướt
+cool	mát mẻ
+lake	hồ nước
+promise	lời hứa
+remove	tẩy
+bird	con chim
+cat	con mèo
+conservation	bảo tồn
+abroad	ở nước ngoài
+countryside	nông thôn
+lunch	bữa trưa
+fifteen	mười năm
+comment	bình luận
+bag	túi xách
+surprise	ngạc nhiên
+document	tài liệu
+occasion	dịp
+monday	thứ hai
+enter	đi vào
+wear	mặc
+dress	váy
+busy	bận rộn
+belief	niềm tin
+fun	vui vẻ
+tradition	truyền thống
+english	 Tiếng Anh
+silver	bạc
+adult	người lớn
+drug	thuốc uống
+narrow	hẹp
+minor	diễn viên phụ
+screen	màn hình
+sky	bầu trời
+express	bày tỏ, ấn tượng
+limit	giới hạn
+ill	bệnh
+wonderful	tuyệt vời
+stress	căng thăng
+typical	điển hình
+relative	mối quan hệ
+atmosphere	không khí
+secondary	thứ 2
+shoulder	vai
+favourite	yêu thích
+nineteen	mười chín
+water	nước
+face	khuôn mặt
+best	tốt nhất
+form	cấu trúc
+general	chung
+though	mặc dù, tuy nhiên
+early	sớm
+large	rộng
+young	trẻ
+side	bên
+once	một lần
+act	hành động
+road	đường
+show	buổi diễn
+feel	cảm thấy
+today	hôm nay
+name	tên
+mother	mẹ
+past	quá khứ
+question	câu hỏi
+let	để cho
+describe	mô tả
+meal	bữa ăn
+beauty	đẹp
+map	bản đồ
+guy	chàng trai
+conduct	hạnh kiểm
+grass	cỏ
+novel	tiểu thuyết
+taste	thử, nếm
