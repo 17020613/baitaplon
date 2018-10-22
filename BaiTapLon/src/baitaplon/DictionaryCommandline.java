@@ -9,23 +9,24 @@ package baitaplon;
  *
  * @author lochoi
  */
-public class DictionaryCommandline extends DictionaryManagement {
+public class DictionaryCommandline {
+    public DictionaryManagement dicmngm = new DictionaryManagement();
     
-    public void showAllWords(){
-        System.out.println("No" + "\t| English" + "\t| Vietnamese\n");
-        for(int i = 0; i < 20; i++){
-            System.out.println((i+1) + "\t| " + word_target[i] + "\t|" + word_explain[i]);
-        }
-    }
-    
-    public void dictionaryBasic(){
-        insertFromFile();
-        showAllWords();
-//        dictionaryLookup();
+     public void showMenu(){
+        System.out.println();
+        System.out.println("****************Dictionary****************");
+        System.out.println("1. Thêm từ");
+        System.out.println("2. Tra từ");
+        System.out.println("3. Xóa từ");
+        System.out.println("4. Sửa từ");
+        System.out.println("5. Hiện tất cả các từ");
+        System.out.print("Lựa chọn của bạn : ");
+        dicmngm.dictionarySetlection();
+        this.showMenu();
     }
     public void dictionaryAdvanced() {
-        insertFromFile();
-        showAllWords();
-        dictionaryLookup();
+       dicmngm.insertFromFile();
+       
+       this.showMenu();
     }
 }

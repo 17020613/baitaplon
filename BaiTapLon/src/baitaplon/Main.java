@@ -5,18 +5,13 @@
  */
 package baitaplon;
 
-import java.util.ArrayList;
-
 /**
  *
- * @author lochoi
+ * @author AnhChoi
  */
-public class Dictionary {
-
-    public int numWord;
-    private ArrayList<Word> word = new ArrayList<Word>();
-    
-    public ArrayList<Word> getWord(){
-        return word;
+public class Main {
+    public static void main(String[] args) {
+        DictionaryCommandline run = new DictionaryCommandline();
+        run.dictionaryAdvanced();
     }
 }
